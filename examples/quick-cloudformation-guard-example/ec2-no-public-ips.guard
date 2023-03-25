@@ -1,0 +1,7 @@
+# ec2-no-eips.guard
+let eip_associations = Resources.*[ Type == 'AWS::EC2::EIPAssociation' ]
+
+rule ec2_instances_public_ips when %eip_associations !empty {
+    let public_ip = %eip_associations.Properties.EIP
+    %public_ip !exists
+}

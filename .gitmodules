@@ -1,0 +1,12 @@
+[submodule "examples/terraform-sentinel-policies"]
+	path = examples/terraform-sentinel-policies
+	url = https://github.com/hashicorp/terraform-sentinel-policies
+[submodule "examples/security-response-automation"]
+	path = examples/security-response-automation
+	url = https://github.com/GoogleCloudPlatform/security-response-automation
+[submodule "examples/gatekeeper-library"]
+	path = examples/gatekeeper-library
+	url = https://github.com/open-policy-agent/gatekeeper-library
+[submodule "examples/cloudformation-guard"]
+	path = examples/cloudformation-guard
+	url = https://github.com/aws-cloudformation/cloudformation-guard

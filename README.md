@@ -1,4 +1,4 @@
-# atl-cloud-conf-2023
+# ATL Cloud Conf 2023: Securing the Cloud with Policy-as-Code and Predeployment Tools
 
 A collection of resources presented at Atlanta Cloud Conference 2023's "Security the Cloud with Policy-as-Code and Predeployment tools" presentation.
 
@@ -13,3 +13,4 @@ Both custom content, and submodules to popular community repositories, are inclu
 - https://docs.aws.amazon.com/organizations/latest/userguide/orgs_manage_policies_scps.html
 - https://cloud.google.com/resource-manager/docs/organization-policy/overview
 - https://learn.microsoft.com/en-us/azure/governance/policy/overview
+
